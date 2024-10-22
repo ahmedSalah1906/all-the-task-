@@ -1,0 +1,349 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\controllers\\properycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:controllers\\properycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\service\\propertys\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:service\\propertys\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\service\\propertys\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:service\\propertys\\ipropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\service\\employees\\iemployeepropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:service\\employees\\iemployeepropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\service\\employees\\employeepropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:service\\employees\\employeepropertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\repository\\property\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:repository\\property\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\repository\\property\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:repository\\property\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\repository\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:repository\\employees\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\repository\\employees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:repository\\employees\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:models\\taskcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\models\\propertyvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:models\\propertyvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\models\\propertforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:models\\propertforemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|c:\\users\\softlaptop\\source\\repos\\task_poiner\\migrations\\20241020050048_intail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434F997F-647F-40DD-BCD2-8ABDAD6C745F}|TASK_poiner.csproj|solutionrelative:migrations\\20241020050048_intail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Employees\\EmployeePropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Employees\\EmployeePropertyService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Employees\\EmployeePropertyService.cs",
+              "RelativeToolTip": "Service\\Employees\\EmployeePropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:26:31.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeePropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Employees\\IEmployeePropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Employees\\IEmployeePropertyService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Employees\\IEmployeePropertyService.cs",
+              "RelativeToolTip": "Service\\Employees\\IEmployeePropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:25:59.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Propertys\\IPropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Propertys\\IPropertyService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Propertys\\IPropertyService.cs",
+              "RelativeToolTip": "Service\\Propertys\\IPropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:15:11.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Propertys\\PropertyService.cs",
+              "RelativeDocumentMoniker": "Service\\Propertys\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Service\\Propertys\\PropertyService.cs",
+              "RelativeToolTip": "Service\\Propertys\\PropertyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:15:45.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:01:03.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProperyController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Controllers\\ProperyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProperyController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Controllers\\ProperyController.cs",
+              "RelativeToolTip": "Controllers\\ProperyController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:19:26.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\property\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\property\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\property\\PropertyRepository.cs",
+              "RelativeToolTip": "Repository\\property\\PropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:16:16.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\property\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\property\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\property\\IPropertyRepository.cs",
+              "RelativeToolTip": "Repository\\property\\IPropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:14:40.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\Employees\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Employees\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\Employees\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Employees\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:03:56.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\Employees\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Employees\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Repository\\Employees\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\Employees\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:04:22.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskContext.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\TaskContext.cs",
+              "RelativeDocumentMoniker": "models\\TaskContext.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\TaskContext.cs",
+              "RelativeToolTip": "models\\TaskContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:52:16.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropertyValues.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\PropertyValues.cs",
+              "RelativeDocumentMoniker": "models\\PropertyValues.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\PropertyValues.cs",
+              "RelativeToolTip": "models\\PropertyValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T04:56:04.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PropertforEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\PropertforEmployee.cs",
+              "RelativeDocumentMoniker": "models\\PropertforEmployee.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\PropertforEmployee.cs",
+              "RelativeToolTip": "models\\PropertforEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:51:49.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\Employee.cs",
+              "RelativeDocumentMoniker": "models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\models\\Employee.cs",
+              "RelativeToolTip": "models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T04:51:02.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:02:19.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\DTOS\\PropertyDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\PropertyDTO.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\DTOS\\PropertyDTO.cs",
+              "RelativeToolTip": "DTOS\\PropertyDTO.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:52:22.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\DTOS\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "DTOS\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\DTOS\\EmployeeDTO.cs",
+              "RelativeToolTip": "DTOS\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:49:49.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAUAAABMVTWbZXAzwAkAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T04:49:36.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241020050048_intail.cs",
+              "DocumentMoniker": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Migrations\\20241020050048_intail.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241020050048_intail.cs",
+              "ToolTip": "C:\\Users\\Softlaptop\\source\\repos\\TASK_poiner\\Migrations\\20241020050048_intail.cs",
+              "RelativeToolTip": "Migrations\\20241020050048_intail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T05:00:48.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
